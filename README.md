@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eseqmedin55
+- 👋 Hi, I’m Ezekiel
 - 👀 I’m interested in coding, soccer, gaming and cooking.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with various developers and companys
